@@ -1,4 +1,4 @@
-# Flutter WEB leared from source  
+# Flutter WEB learned from source  
 
 A new Flutter project.
 
